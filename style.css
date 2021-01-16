@@ -8,10 +8,22 @@ body, html {
     text-align: center;
 }
 
+header {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    background-color: bisque;
+}
 
+figure {
+    margin-top: 150px;
+}
 
 #img-div {
-    background-color: aliceblue;
+    background-color: #575757;
+    border-radius: 5px;
 }
 
 img {
@@ -22,7 +34,8 @@ img {
 }
 
 figcaption {
-    background-color: white;
+    background-color: #575757;
+    color: white;
 }
 
 ul {
