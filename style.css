@@ -1,4 +1,26 @@
 body, html {
     margin: 0px;
     padding: 0px;
+    background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+}
+
+#main {
+    text-align: center;
+}
+
+
+
+#img-div {
+    background-color: aliceblue;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+figcaption {
+    background-color: white;
 }
